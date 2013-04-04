@@ -1,0 +1,10 @@
+=== CHANGELOG ===
+
+4 April 2013 :
+- Added 2 new Minigames.
+- Added Fade (Loading -> MainMenu).
+- Added Sounds.
+- Fixed Version loading.
+- Fixed Disconnecting? (Still Testing).
+- Added EndOfTheGame (Not Implemented).
+- Added Clock Effect (Halo Around it).
