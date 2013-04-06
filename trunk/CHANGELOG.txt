@@ -8,3 +8,7 @@
 - Fixed Disconnecting? (Still Testing).
 - Added EndOfTheGame (Not Implemented).
 - Added Clock Effect (Halo Around it).
+
+6 April 2013 : 
+- Fixes and Fixes.
+- If all player losses the timer is set to 5 seconds.
